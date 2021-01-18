@@ -6,6 +6,8 @@ body{
   
 #card{
   background-size: cover;
-  height: 1000px;
+  padding: 10px;
+  width: 1000px;
+  height: 500px;
   margin: 30px;
 }
