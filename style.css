@@ -4,4 +4,8 @@ body{
     margin-top: 30px;
   }
   
-  
+#card{
+  background-size: cover;
+  height: 1000px;
+  margin: 30px;
+}
